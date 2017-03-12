@@ -440,14 +440,14 @@ iframe {
   color: #b0b7bf;
   font-weight: 500;
 }
-.education .item .university .place a {
+.education .item .university a {
   font-family: "Lato", arial, sans-serif;
   font-size: 13px;
   color: #999999;
   font-weight: 600;
   padding-left: 25px;
 }
-.education .item .university .place a:hover {
+.education .item .university a:hover {
   color: #666666;
 }
 .education .level-title {
