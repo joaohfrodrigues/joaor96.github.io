@@ -440,13 +440,13 @@ iframe {
   color: #b0b7bf;
   font-weight: 500;
 }
-.education .item .level-title {
+.education .level-title {
   font-size: 16px;
   position: relative;
   margin-top: 0;
   margin-bottom: 10;
 }
-.education .item .level-title .level-label {
+.education .level-title .level-label {
   color: #ccd1d6;
   font-size: 14px;
   font-weight: 400;
@@ -455,11 +455,11 @@ iframe {
   right: 0;
   top: 0;
 }
-.education .item .level-bar {
+.education .level-bar {
   height: 15px;
   background: #e8e8e8;
 }
-.education .item .level-bar-inner {
+.education .level-bar-inner {
   height: 15px;
   background: #66cb8c;
 }
