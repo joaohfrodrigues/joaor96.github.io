@@ -164,6 +164,7 @@ iframe {
 }
 
 .header .profile-content .navbar a {
+  font-family: 'Montserrat', sans-serif;
   display: block;
   color: #b0b7bf;
   text-align: center;
