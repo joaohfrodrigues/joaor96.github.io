@@ -114,7 +114,7 @@ iframe {
 */
 /* ======= Header ======= */
 .borderstyle {
-    background-color: yellowgreen; /* Changing background color */
+    background-color: grey; /* Changing background color */
     /*font-weight: bold;*/
     border-radius: 20px; /* Making border radius */
     width: auto; /* Making auto-sizable width */
